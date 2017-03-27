@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Challenge
-Plugin URI: http://wearablesforgood.com
+Plugin URI: https://github.com/lnuyen/w4g-challenge
 Description: Run and manage a challenge directly from your website.
 Version: 2.0
 Author: Eleven Alphabet
