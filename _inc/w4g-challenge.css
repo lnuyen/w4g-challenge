@@ -1,0 +1,52 @@
+/* General */
+.w4g-applications-archive,
+.w4g-application-form,
+.w4g-application {
+	/*font-family: 'Open Sans', sans-serif;*/
+}
+
+
+/* Application */
+p.w4g-application-alert {
+    background: lightgreen;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+}
+#poststuff {
+    max-width: 100%;
+    min-width: 0!important;
+}
+.acf-form {
+    margin: 1.5em 0;
+}
+
+/* Applications Archive + Dashboard */
+
+.w4g-application {
+    border-top: 1px solid #eee;
+    padding: 1em 0;
+}
+
+.w4g-application h2 {
+	margin-bottom: 0;
+}
+
+h2.w4g-application-title a {
+    color: #111;
+    text-decoration: none;
+}
+
+p.w4g-application-meta,
+p.w4g-application-meta a {
+	color: #aaa;
+    font-size: 12px;
+    letter-spacing: 0.05em;
+	margin: 0;
+    text-transform: uppercase;
+}
+
+p.w4g-application-meta a {
+    margin-right: 5px;
+}
+
